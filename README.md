@@ -1,6 +1,11 @@
 # IdentityConnect with Identity Server Service
 
+
+
 A simple OpenIdConnect SPA you can use with my Identity Server Service repo - [ISS](https://github.com/burakpatat/IdentityServerService)
+
+
+........................................................
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
 
